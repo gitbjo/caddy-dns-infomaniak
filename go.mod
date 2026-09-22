@@ -1,4 +1,4 @@
-module github.com/gitbjo/caddy-dns-infomaniak
+module github.com/caddy-dns/infomaniak
 
 go 1.26.0
 
